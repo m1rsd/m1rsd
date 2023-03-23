@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirsaid</h1>
-<h3 align="center">I'm a Backend Developer</h3>
+<h3 align="center">I'm a Backend Developer. I am an inquisitive backend developer who strives to learn the news in the field of his work and activities. In recent years, I have studied the Python programming language and the stacks attached to it, such as Django, Fast API. I also worked in the field of database and studied the SQL language and Database functionality. Further I studied and worked with Algorithms & Data Structures. And at the moment I am looking at a job that gives me the opportunity for personal professional growth in parallel with the growth of the project itself and the company.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1rsd&label=Profile%20views&color=0e75b6&style=flat" alt="m1rsd" /> </p>
 
